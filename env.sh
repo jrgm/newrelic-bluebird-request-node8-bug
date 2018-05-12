@@ -1,0 +1,8 @@
+export NEW_RELIC_AUDIT_LOG_ENABLED=true
+export NEW_RELIC_CAPTURE_PARAMS=false
+export NEW_RELIC_IGNORED_PARAMS=
+export NEW_RELIC_LOG=/dev/null
+export NEW_RELIC_LOG_LEVEL=info
+export NEW_RELIC_NO_CONFIG_FILE=true
+export NEW_RELIC_RECORD_SQL=obfuscated
+export NEW_RELIC_APP_NAME=myapp

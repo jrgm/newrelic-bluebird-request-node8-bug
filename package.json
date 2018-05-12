@@ -1,0 +1,16 @@
+{
+  "name": "newrelic-bluebird-request-node8-bug",
+  "version": "1.0.0",
+  "description": "Demonstrates a bug with bluebird, request and newrelic",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "John Morrison <jrgmorrison@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "newrelic": "4.1.0",
+    "request": "2.85.0"
+  }
+}
