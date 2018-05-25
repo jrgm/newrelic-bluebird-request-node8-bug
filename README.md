@@ -1,4 +1,6 @@
 ```
+Update 2018-05-24: there is fix that passes this test in newrelic@4.1.2
+
 $ npm install &>/dev/null && npm test
 
 > newrelic-bluebird-request-node8-bug@1.0.0 test /tmp/newrelic-bluebird-request-node8-bug
