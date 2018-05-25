@@ -1,5 +1,6 @@
 ```
-Update 2018-05-24: there is fix that passes this test in newrelic@4.1.2. Nice turnaround time from NR. Thanks!
+Update 2018-05-24: there is fix that passes this test in newrelic@4.1.2. Nice turnaround time
+from NR. Thanks!
 
 $ npm install &>/dev/null && npm test
 
